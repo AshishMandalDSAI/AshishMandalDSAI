@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashish Mandal
 
-### MBA Data Science & AI | Machine Learning Engineer | Data Analyst
+### MBA Data Science & AI | Data Analyst | Machine Learning Engineer
 
 I'm an MBA student specializing in **Data Science and Artificial Intelligence**, with a strong interest in **Machine Learning, Data Analytics, and Business Intelligence**.
 
@@ -127,7 +127,7 @@ APEX Institute of Management, Chandigarh University
 📧 **Email:** mandalashish9064@gmail.com
 
 💼 **LinkedIn:**  
-https://www.linkedin.com/in/ashish-mandal-5bba73349
+https://www.linkedin.com/in/ashish-mandal-a80b90425
 
 🐙 **GitHub:**  
 https://github.com/AshishMandalDSAI
