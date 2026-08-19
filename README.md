@@ -141,21 +141,11 @@ Currently developing practical experience in:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AshishMandalDSAI&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7F00FF&icon_color=00C6FF&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishMandalDSAI&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7F00FF&text_color=c9d1d9" width="41%" />
-
 <img src="https://streak-stats.demolab.com/?user=AshishMandalDSAI&theme=radical&hide_border=true&background=0D1117&ring=7F00FF&fire=FF00CC&currStreakLabel=00C6FF" width="60%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshishMandalDSAI&theme=radical&hide_border=true&bg_color=0D1117&color=00C6FF&line=7F00FF&point=FF00CC" width="90%"/>
 
 </div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AshishMandalDSAI&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" width="90%"/>
-</div>
----
 
 ## ✍️ Random Dev Quote
 
