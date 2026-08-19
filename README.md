@@ -100,10 +100,8 @@ Currently developing practical experience in:
 - Python and data analysis
 - Machine learning fundamentals
 - Regression and classification techniques
-- Feature engineering
-- TensorFlow / Keras and NLP
+- TensorFlow 
 - MLflow and FastAPI
-- Docker
 - AWS / GCP fundamentals
 
 ---
