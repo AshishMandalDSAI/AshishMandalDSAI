@@ -1,152 +1,137 @@
-<div align="center">
+# 👋 Hi, I'm Ashish Mandal
 
-# 🚀 NovaMart Customer 360 & Revenue Intelligence Platform
+### MBA Data Science & AI | Data Analyst | Machine Learning Engineer
 
-### Turning Customer Data into Revenue Decisions
+I'm an MBA student specializing in **Data Science and Artificial Intelligence**, with a strong interest in **Machine Learning, Data Analytics, and Business Intelligence**.
 
-<p>
-  <strong>Customer Analytics • Machine Learning • Revenue Intelligence • AI Copilot • Business Intelligence</strong>
-</p>
-
-<br>
-
-<a href="https://customer-revenue-intelligence-lthh4bypgdv8egcfhzumvw.streamlit.app/">
-  <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Open%20NovaMart-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/>
-</a>
-
-<a href="https://github.com/AshishMandalDSAI/customer-revenue-intelligence">
-  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-
-</div>
+Currently working as a **Machine Learning Engineer Intern at Corporate Guide**, where I am developing my skills in Python, data analysis, machine learning, and end-to-end ML workflows.
 
 ---
 
-<div align="center">
+## 🚀 About Me
 
-### 📊 NOVAMART
-
-**Customer 360 & Revenue Intelligence Platform**
-
-*A complete end-to-end analytics platform built for customer-level revenue and retention decision-making.*
-
-</div>
-
----
-
-## 🌐 Live Demo
-
-### 🚀 Try NovaMart Online
-
-<p align="center">
-
-<a href="https://customer-revenue-intelligence-lthh4bypgdv8egcfhzumvw.streamlit.app/">
-<img src="https://img.shields.io/badge/🚀%20OPEN%20LIVE%20DASHBOARD-Click%20Here-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Open Live Dashboard"/>
-</a>
-
-</p>
-
-> **No installation required.** Explore the deployed Streamlit dashboard directly in your browser.
-
-🔗 **Live Application:**  
-https://customer-revenue-intelligence-lthh4bypgdv8egcfhzumvw.streamlit.app/
+- 🎓 MBA – Data Science & Artificial Intelligence
+- 💼 Machine Learning Engineer Intern at Corporate Guide
+- 🐍 Working with Python, NumPy, Pandas and Scikit-learn
+- 🤖 Exploring Machine Learning, NLP and Deep Learning
+- 📊 Interested in Data Analytics and Business Intelligence
+- 🗄️ Working with SQL and Power BI
+- 🚀 Exploring FastAPI, Docker and MLflow
+- ☁️ Learning AWS and GCP fundamentals
+- 📈 Interested in financial data and predictive analytics
 
 ---
 
-# 🧠 What is NovaMart?
+## 🛠️ Technical Skills
 
-**NovaMart Customer 360 & Revenue Intelligence Platform (CRIP)** is an end-to-end customer analytics and revenue decision-support platform.
+### Programming & Data
+`Python` `SQL` `Pandas` `NumPy` `Excel`
 
-The platform combines:
+### Machine Learning
+`Scikit-learn` `Regression` `Decision Trees` `Random Forest` `SVM` `Feature Engineering`
 
-- 👥 Customer 360 analytics
-- 🔥 Churn prediction
-- 💰 Customer Lifetime Value (CLV)
-- ⚠️ Revenue-at-Risk analysis
-- 📊 Customer profitability
-- 🎯 Customer segmentation
-- 🚀 Next-Best-Action recommendations
-- 🤖 AI Analytics Copilot
-- ⚡ FastAPI backend
-- 📈 Power BI analytics exports
-- 🐘 PostgreSQL database design
-- 🐳 Docker deployment
-- 🧪 Automated testing
+### AI & Deep Learning
+`TensorFlow` `Keras` `NLP`
 
-The project is built using a **synthetic e-commerce dataset** and is designed as a complete **MBA Data Science & AI portfolio project**.
+### Data Visualization & Business Intelligence
+`Power BI` `Matplotlib`
+
+### Development & Deployment
+`Django` `FastAPI` `Docker` `MLflow`
+
+### Cloud
+`AWS` `GCP`
 
 ---
 
-# 🎯 Business Problem
+## 📌 Featured Projects
 
-Modern e-commerce businesses generate large volumes of customer and transaction data.
+### 📈 Indian Stock Market Prediction System
 
-However, raw data alone does not answer important business questions:
+Machine learning-based project developed to analyze historical **NSE/BSE data** and predict Indian stock market trends.
 
-### ❓ Which customers are likely to churn?
+**Technologies:**  
+Python • Pandas • NumPy • Scikit-learn • Matplotlib • Excel
 
-### ❓ Which customers have the highest future value?
-
-### ❓ How much revenue is at risk?
-
-### ❓ Which customer segments should receive retention campaigns?
-
-### ❓ Which customers should receive cross-sell or upsell offers?
-
-### ❓ Which customers are profitable?
-
-### ❓ What action should the business take next?
-
-NovaMart transforms these questions into **data-driven business decisions**.
+**Machine Learning Models:**  
+Linear Regression • Random Forest
 
 ---
 
-# 💡 Business Solution
+### 🛡️ ML-Based Fraud Detection
 
-NovaMart creates a complete customer intelligence layer:
+Machine learning project focused on detecting potentially fraudulent transactions using data-driven techniques.
 
-```text
-                 ┌──────────────────────────┐
-                 │   Synthetic E-Commerce   │
-                 │          Data             │
-                 └────────────┬─────────────┘
-                              │
-                              ▼
-                 ┌──────────────────────────┐
-                 │ Data Validation &         │
-                 │ Cleaning                  │
-                 └────────────┬─────────────┘
-                              │
-                              ▼
-                 ┌──────────────────────────┐
-                 │ Feature Engineering       │
-                 │ + RFM Analysis            │
-                 └────────────┬─────────────┘
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-             ▼                ▼                ▼
-       ┌──────────┐     ┌──────────┐    ┌────────────┐
-       │ Customer │     │  Churn   │    │    CLV     │
-       │Segment.  │     │Prediction│    │ Prediction │
-       └────┬─────┘     └────┬─────┘    └─────┬──────┘
-            │                │                │
-            └────────────────┼────────────────┘
-                             │
-                             ▼
-                  ┌──────────────────────┐
-                  │ Revenue-at-Risk &    │
-                  │ Profitability        │
-                  └──────────┬───────────┘
-                             │
-                             ▼
-                  ┌──────────────────────┐
-                  │ Next-Best-Action     │
-                  │ Recommendations      │
-                  └──────────┬───────────┘
-                             │
-                             ▼
-              ┌──────────────────────────────┐
-              │ Streamlit Dashboard +       │
-              │ AI Analytics Copilot        │
-              └──────────────────────────────┘
+**Technologies:**  
+Python • Pandas • Scikit-learn • Machine Learning
+
+---
+
+### 🤖 Corporate Guide – Machine Learning
+
+Machine learning project developed during my practical learning and internship journey, focusing on applying machine learning concepts to real-world problems.
+
+---
+
+## 💼 Experience
+
+### Machine Learning Engineer Intern
+**Corporate Guide**
+
+Currently developing practical experience in:
+
+- Python and data analysis
+- Machine learning fundamentals
+- Regression and classification techniques
+- Feature engineering
+- TensorFlow/Keras and NLP
+- MLflow and FastAPI
+- Docker
+- AWS/GCP fundamentals
+
+---
+
+## 🎓 Education
+
+### Master of Business Administration
+**Data Science & Artificial Intelligence**  
+APEX Institute of Management, Chandigarh University  
+**2025 – 2027 | Currently Pursuing**
+
+### Bachelor of Computer Application
+**Panskura Banamali College, Vidyasagar University**  
+**2022 – 2025**
+
+---
+
+## 📜 Certifications
+
+- Google Data Analytics — 2026
+- SAS Visual Analytics — 2025
+- Python for Data Science — 2025
+
+---
+
+## 🎯 Career Interests
+
+- Machine Learning Engineer
+- Data Analyst
+- Data Scientist
+- Business Intelligence Analyst
+- AI/ML Engineer
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** mandalashish9064@gmail.com
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/ashish-mandal-a80b90425
+
+🐙 **GitHub:**  
+https://github.com/AshishMandalDSAI
+
+---
+
+⭐ Thanks for visiting my profile!
