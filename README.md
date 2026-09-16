@@ -1,7 +1,8 @@
 # 👋 Hey, I'm Ashish Mandal
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00A67E&center=false&vCenter=true&width=700&lines=MBA+Data+Science+%26+AI+Student;Data+Analyst+%7C+ML+Engineer;Python+%7C+SQL+%7C+Machine+Learning;Building+AI-Powered+Business+Solutions" alt="Typing SVG" />
-
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=007BFF&center=false&vCenter=true&width=750&height=40&duration=3000&deleteSpeed=60&repeat=true&lines=MBA+Data+Science+%26+AI+Student;Data+Analyst+%7C+ML+Engineer;Python+%7C+SQL+%7C+Machine+Learning;Building+AI-Powered+Business+Solutions" alt="Typing SVG" />
+</p>
 ### 🎓 MBA Data Science & AI | 📊 Data Analyst | 🤖 ML Engineer
 
 > **Turning data into insights, insights into intelligence, and intelligence into business solutions.**
