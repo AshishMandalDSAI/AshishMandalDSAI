@@ -117,7 +117,7 @@ AI-powered Marketing Mix Modeling and Budget Optimization platform. Analyzes mar
 
 ## Experience
 
-**Machine Learning Engineer Intern** — Corporate Guide · *Present*
+**Machine Learning Engineer Intern** — Corporate Guide · 
 
 - Developing and implementing ML models in Python for structured data analysis, classification, and regression using Scikit-learn and Pandas
 - Performing end-to-end ML workflows including data preprocessing, feature engineering, model training, and evaluation
