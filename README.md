@@ -37,19 +37,6 @@ A modular Python-based AI and data analytics platform built with production-grad
 
 ## Featured Projects
 
-### [Customer 360 & Revenue Intelligence Platform](https://github.com/AshishMandalDSAI/customer-revenue-intelligence)
-
-End-to-end customer analytics and revenue intelligence platform integrating ML, financial analysis, and business intelligence into a unified system.
-
-**Capabilities:** Churn Prediction · Customer Lifetime Value · Revenue-at-Risk · Profitability Analysis · RFM Segmentation · Next-Best-Action Engine · AI Analytics Copilot
-
-**Stack:** `Python` `FastAPI` `Streamlit` `Scikit-learn` `PostgreSQL` `Docker` `Power BI` `Pytest`
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://customer-revenue-intelligence-lthh4bypgdv8egcfhzumvw.streamlit.app)
-[![Repo](https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AshishMandalDSAI/customer-revenue-intelligence)
-
----
-
 ### [MarketPulse AI](https://github.com/AshishMandalDSAI/MarketPulse-AI)
 
 AI-powered Marketing Mix Modeling and Budget Optimization platform. Analyzes marketing channels, measures revenue contribution, models diminishing returns, and recommends optimal budget allocation.
