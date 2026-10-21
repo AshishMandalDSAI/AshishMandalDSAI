@@ -7,15 +7,15 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Solutions;Turning+Data+Into+Business+Insights;Developing+Production-Oriented+ML+Systems;Exploring+the+Future+of+Artificial+Intelligence" alt="Typing SVG" />
 
 <p>
-  <a href="https://www.linkedin.com/in/ashish-mandal-a80b90425">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/AshishMandalDSAI">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:mandalashish9064@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://www.linkedin.com/in/ashish-mandal-a80b90425">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/AshishMandalDSAI">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:mandalashish9064@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" width="100%" alt="separator"/>
@@ -29,10 +29,10 @@
 ---
 ## 👨‍💻 About Me
 
-Hello! I'm **Ashish Mandal**, a Machine Learning Engineer Intern at Corporate Guide, 
+Hello! I'm **Ashish Mandal**, a Machine Learning Engineer Intern at Corporate Guide, 
 currently pursuing an MBA in Data Science & Artificial Intelligence.
 
-I enjoy building intelligent solutions that transform raw data into meaningful 
+I enjoy building intelligent solutions that transform raw data into meaningful 
 insights and solve real-world business problems.
 
 ### 🚀 What I Do
@@ -93,7 +93,7 @@ An analytics platform designed to help businesses understand marketing performan
 <br/>
 
 <a href="https://github.com/AshishMandalDSAI/MarketPulse-AI">
-  <img src="https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore MarketPulse AI"/>
+  <img src="https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore MarketPulse AI"/>
 </a>
 
 </td>
@@ -146,12 +146,12 @@ A modular Python-based platform focused on reliable data processing, structured 
 ### 🤖 Data Science & Machine Learning
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
 </p>
 
 ### ⚙️ Backend, Deployment & MLOps
@@ -225,10 +225,10 @@ Panskura Banamali College · Vidyasagar University
 
 ## 🏆 Certifications
 
-| Certification           | Year |
+| Certification           | Year |
 | ----------------------- | ---: |
-| Google Data Analytics   | 2026 |
-| SAS Visual Analytics    | 2025 |
+| Google Data Analytics   | 2026 |
+| SAS Visual Analytics    | 2025 |
 | Python for Data Science | 2025 |
 
 ---
@@ -251,11 +251,11 @@ Panskura Banamali College · Vidyasagar University
 ## 🧭 My Current Direction
 
 ```text
-Machine Learning       ██████████  Building & Improving
-Data Analytics         ██████████  Developing Solutions
-Applied AI             █████████░  Exploring & Implementing
-ML Engineering         █████████░  Improving Reliability
-Cloud & MLOps          ███████░░░  Expanding Knowledge
+Machine Learning       ██████████  Building & Improving
+Data Analytics         ██████████  Developing Solutions
+Applied AI             █████████░  Exploring & Implementing
+ML Engineering         █████████░  Improving Reliability
+Cloud & MLOps          ███████░░░  Expanding Knowledge
 ```
 
 *Visual indicators represent areas of focus, not measured proficiency scores.*
