@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Ashish Mandal
+# 👋 Hello, My Self Ashish Mandal
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FF5733&center=true&vCenter=true&width=650&lines=Welcome+To+My+Profile;Explore+My+Projects;Data+Science+%7C+AI+%7C+ML" alt="Welcome To My Profile" />
