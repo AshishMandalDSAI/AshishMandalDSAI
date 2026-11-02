@@ -26,7 +26,7 @@
 
 </div>
 
-## 👨‍💻 About Me
+## 👨‍💻 About Myself 
 
 I am a Machine Learning Engineer Intern at Corporate Guide, currently pursuing an MBA in Data Science & Artificial Intelligence. My passion lies at the intersection of robust software engineering and advanced analytics—building scalable, intelligent solutions that solve complex, real-world business problems. 
 
