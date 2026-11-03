@@ -116,7 +116,7 @@ A highly modular Python platform focused on reliable data processing, automated 
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education And Certifications
 
 **MBA — Data Science & Artificial Intelligence**
 *Chandigarh University (2025 – 2027)*
