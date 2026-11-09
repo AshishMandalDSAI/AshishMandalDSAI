@@ -105,7 +105,7 @@ A highly modular Python platform focused on reliable data processing, automated 
 
 ---
 
-## 💼 Professional Experiences 
+## 💼 Professional Experiences
 
 ### 🤖 Machine Learning Engineer Intern
 **Corporate Guide** | *Current*
